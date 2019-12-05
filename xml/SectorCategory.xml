@@ -115,7 +115,7 @@
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
             </name>
             <description>
-                <narrative>N.B. Use code 51010 for general budget support.</narrative>
+                <narrative>N.B. Use code 51010 for general budget support. </narrative>
                 <narrative xml:lang="fr">N.B. Utiliser le code 51010 pour le soutien budgétaire général.</narrative>
             </description>
         </codelist-item>
@@ -161,15 +161,6 @@
             <description>
                 <narrative/>
                 <narrative xml:lang="fr"/>
-            </description>
-        </codelist-item>
-        <codelist-item status="withdrawn">
-            <code>230</code>
-            <name>
-                <narrative>ENERGY GENERATION AND SUPPLY</narrative>
-            </name>
-            <description>
-                <narrative>Energy sector policy, planning and programmes; aid to energy ministries; institution capacity building and advice; unspecified energy activities including energy conservation.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -377,15 +368,15 @@
                 <narrative xml:lang="fr">Soutien Budgétaire</narrative>
             </name>
             <description>
-                <narrative>Budget support in the form of sector-wide approaches (SWAps) should be included in the respective sectors.</narrative>
+                <narrative>Budget support in the form of sector-wide approaches (SWAps) should be included in the respective sectors. </narrative>
                 <narrative xml:lang="fr">Les soutiens budgétaires sous la forme d’approches sectorielles devraient être inclus dans les secteurs respectifs.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
             <code>520</code>
             <name>
-                <narrative>Developmental Food Aid/Food Security Assistance</narrative>
-                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale/Sécurité Alimentaire</narrative>
+                <narrative>Development Food Assistance</narrative>
+                <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
             </name>
             <description>
                 <narrative/>
@@ -432,7 +423,7 @@
                 <narrative xml:lang="fr">Reconstruction &amp; Réhabilitation</narrative>
             </name>
             <description>
-                <narrative>This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid.</narrative>
+                <narrative>This relates to activities during and in the aftermath of an emergency situation.  Longer-term activities to improve the level of infrastructure or social services should be reported under the relevant economic and social sector codes. See also guideline on distinguishing humanitarian from sector-allocable aid. </narrative>
                 <narrative xml:lang="fr">Activités menées pendant et après une situation d’urgence. Les activités à plus long terme destinées à améliorer le niveau d’infrastructure ou de services sociaux doivent être rapportées sous les codes correspondants des secteurs économiques et sociaux pertinents. Voir également les orientations sur la distinction entre l’aide humanitaire et l’aide ventilable par secteur.</narrative>
             </description>
         </codelist-item>
@@ -443,8 +434,8 @@
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
             </name>
             <description>
-                <narrative>See codes 41050 and 15220 for prevention of floods and conflicts.</narrative>
-                <narrative xml:lang="fr">Voir codes 41050 et 15220 pour la prévention des inondations et des conflits.</narrative>
+                <narrative>See code 43060 for disaster risk reduction.</narrative>
+                <narrative xml:lang="fr">Voir code 43060 pour la réduction des risques de catastrophes.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
@@ -456,15 +447,6 @@
             <description>
                 <narrative/>
                 <narrative xml:lang="fr"/>
-            </description>
-        </codelist-item>
-        <codelist-item status="withdrawn">
-            <code>920</code>
-            <name>
-                <narrative>SUPPORT TO NON- GOVERNMENTAL ORGANISATIONS (NGOs)</narrative>
-            </name>
-            <description>
-                <narrative>In the donor country.</narrative>
             </description>
         </codelist-item>
         <codelist-item>
