@@ -41,7 +41,7 @@
                 <narrative xml:lang="fr">Structure</narrative>
             </name>
             <description>
-                <narrative>The designated geopgraphic location is a structure (such as a school or a clinic)</narrative>
+                <narrative>The designated geographic location is a structure (such as a school or a clinic)</narrative>
                 <narrative xml:lang="fr">Le lieu indiqué est un établissement (p. ex., une école ou une clinique).</narrative>
             </description>
         </codelist-item>
